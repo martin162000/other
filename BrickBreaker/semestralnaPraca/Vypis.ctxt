@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vypis
+comment1.params=
+comment1.target=Vypis()
+comment2.params=stav
+comment2.target=java.lang.String\ get_vypis(boolean)
+numComments=3

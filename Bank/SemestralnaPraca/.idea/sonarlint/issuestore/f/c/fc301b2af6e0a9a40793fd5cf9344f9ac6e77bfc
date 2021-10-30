@@ -1,0 +1,11 @@
+
+Q
+java:S2696>"6Make the enclosing method "static" or remove this set.(¥ξωθÿÿÿÿÿ
+j
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(φΪ¥ωÿÿÿÿ
+†
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£ιΛ
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(¥ξωθÿÿÿÿÿ
+b
+java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ

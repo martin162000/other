@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pohyb
+comment1.params=
+comment1.target=Pohyb()
+comment2.params=pohyb_text
+comment2.target=int\ get_pohyb(java.lang.String)
+numComments=3

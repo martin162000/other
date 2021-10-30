@@ -1,0 +1,3 @@
+Musíte si najprv zapnúť na localhoste MySQL databázu (ja používam XAMPP),
+potom musíte si vytvoriť uživateľa v databáze (meno: admin   heslo: admin) a importovať databázu.
+Treba ešte pridať do Intelij plugin mysql_connector a potom všetko pôjde.
